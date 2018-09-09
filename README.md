@@ -37,7 +37,7 @@ A python calculator project by Dennis Shaba
 | sin      |   Sine/sinh    |
 |  π       |   pi           |
 | many more|                |
-## Thanks
+# Thanks
 # Don't forget to give me some credit for the neat coding.
 
                             :::::::    :             :  ::  :           :
