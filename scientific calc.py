@@ -4,7 +4,7 @@ import parser
 import  tkinter.messagebox
 
 root = Tk()
-root.title("Advance Scientific Cal-by Dennis (Dvix)")
+root.title("Advance Scientific Calc-by Dennis (Dvix)")
 root.configure (background ="SeaGreen2")
 root.resizable(width=False, height=False)
 root.geometry("480x560+0+0")
