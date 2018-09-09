@@ -38,7 +38,7 @@ A python calculator project by Dennis Shaba
 |  π       |   pi           |
 | many more|                |
 ## Thanks
-# Don'tm forget to give me some credit for the neat coding.
+# Don't forget to give me some credit for the neat coding.
 
                             :::::::    :             :  ::  :           :
                             ::      :    :          :   ::    :        :
