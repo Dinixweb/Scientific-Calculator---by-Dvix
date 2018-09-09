@@ -29,8 +29,14 @@ A python calculator project by Dennis Shaba
 | /        | division       |
 | +-       | Plus/Minus     |
 | √        | square root    |
-| 
-
+| log      | log,log2,log10 |
+| exp      |  exponential   |
+| tan      |   tan/tanh     |
+| cos      |   Cos/cosh     |
+| deg      |   Degree       |
+| sin      |   Sine/sinh    |
+|  π       |   pi           |
+| many more|                |
 ## Thanks
 # Don'tm forget to give me some credit for the neat coding.
 
